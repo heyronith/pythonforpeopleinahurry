@@ -1,16 +1,16 @@
 This is a practical and rigorous tutorial for people who want to learn python for data science but have time constraints. 
-Day 1: Python Fundamentals (4 sessions)
+Part 1: Python Fundamentals (4 sessions)
 
 Basic syntax, data types, and structures
 Control flow, functions, and modules
 Object-oriented programming in Python
 Advanced Python concepts (decorators, generators, context managers)
 
-Day 2: Data Manipulation and Analysis (3 sessions)
+Part 2: Data Manipulation and Analysis (3 sessions)
 
-NumPy for numerical computing
-Pandas for data manipulation and analysis
-Data visualization with Matplotlib and Seaborn
+Part 2.1: NumPy for numerical computing
+Part 2.2; Pandas for data manipulation and analysis
+Part 2.3:Data visualization with Matplotlib and Seaborn
 
 Day 3: Machine Learning Basics (3 sessions)
 
